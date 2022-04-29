@@ -14,7 +14,6 @@ body {
     font-size: 2rem;
     font-weight: 100;
 }
-
 #mainNavbar .nav-link {
     color: white;
 }
@@ -37,18 +36,16 @@ h2 {
     font-weight: 100;
     font-size: 2.5rem;
 }
-
 p {
     color: rgb(239, 120, 140);
     font-weight: 100;
     font-size: 1.123rem;
 }
-
 .content {
     margin-top: 30px;
 }
 .navbar.scrolled{
-    background: rgb(244, 157, 237);
+    background: rgb(136, 232, 136);
     transition: background 100ms;
 }
 
